@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Balaras on FitzgeraldLab</title>
+    <link>/authors/e.-balaras/</link>
+    <description>Recent content in E. Balaras on FitzgeraldLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2013 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/e.-balaras/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Partitioned fluid-structure interaction scheme for bodies with high flexibility</title>
+      <link>/publication/fitzgerald-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/fitzgerald-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Flapping Systems: Computational Investigations into Fluid-Structure Interactions</title>
+      <link>/publication/fitzgerald-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/fitzgerald-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of flexibility on the aerodynamic performance of a hovering wing</title>
+      <link>/publication/vanella-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/vanella-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Flapping Dynamics: Effects of Flexibility and Kinematics</title>
+      <link>/publication/vanella-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/vanella-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Flapping Dynamics: Reduced Order Modeling</title>
+      <link>/publication/fitzgerald-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/fitzgerald-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of flexibility on the performance of flapping airfoils</title>
+      <link>/publication/vanella-2007/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/vanella-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

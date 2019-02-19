@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Valdez on FitzgeraldLab</title>
+    <link>/authors/m.-valdez/</link>
+    <description>Recent content in M. Valdez on FitzgeraldLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/authors/m.-valdez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flapping Aerodynamics in Ground Effect</title>
+      <link>/publication/valdez-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/valdez-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of computational models for fluid-structure interaction of flexible flapping wing systems</title>
+      <link>/publication/fitzgerald-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/fitzgerald-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Flapping Systems: Computational Investigations into Fluid-Structure Interactions</title>
+      <link>/publication/fitzgerald-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/fitzgerald-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thin Flapping Wings: Structural Model and Fluid-Structure Interactions</title>
+      <link>/publication/fitzgerald-2010-c/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/fitzgerald-2010-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Hovering Wing Motions: Proper Orthogonal Decomposition Analysis</title>
+      <link>/publication/fitzgerald-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/fitzgerald-2010-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on FitzgeraldLab</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on FitzgeraldLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A novel geometrically-exact formulation of a finite element solid based on a Biot stress and strain law</title>
+      <link>/publication/fitzgerald-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/fitzgerald-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intrinsic Localized P-Mode in Forced Nonlinear Oscillator Array</title>
+      <link>/publication/perkins-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/perkins-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Uniaxial Tensile Strain on Moth Wings Through Digital Image Correlation</title>
+      <link>/publication/stanley-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/stanley-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuation Method on Cumulant Neglect Equations</title>
+      <link>/publication/perkins-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/perkins-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Capturing the Mechanics of Insect Flight</title>
+      <link>/publication/fitzgerald-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/fitzgerald-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion estimation of a highly deforming body from voxel clouds</title>
+      <link>/publication/hsu-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/hsu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large motion visualization and estimation for fluid-structure simulations</title>
+      <link>/publication/hsu-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/hsu-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometrically Exact Planar Beams with Initial Pre-stress and Large Curvature: Static Configurations, Natural Frequencies, and Mode Shapes</title>
+      <link>/publication/vlajic-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/vlajic-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response localization in micro-scale oscillator arrays: influence of cubic coupling nonlinearities</title>
+      <link>/publication/balachandran-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/balachandran-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partitioned fluid-structure interaction scheme for bodies with high flexibility</title>
+      <link>/publication/fitzgerald-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/fitzgerald-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPGPU implementation and benchmarking of the unsteady vortex lattice method</title>
+      <link>/publication/chabalko-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/chabalko-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flapping Aerodynamics in Ground Effect</title>
+      <link>/publication/valdez-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/valdez-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of computational models for fluid-structure interaction of flexible flapping wing systems</title>
+      <link>/publication/fitzgerald-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/fitzgerald-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Flapping Systems: Computational Investigations into Fluid-Structure Interactions</title>
+      <link>/publication/fitzgerald-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/fitzgerald-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thin Flapping Wings: Structural Model and Fluid-Structure Interactions</title>
+      <link>/publication/fitzgerald-2010-c/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/fitzgerald-2010-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Hovering Wing Motions: Proper Orthogonal Decomposition Analysis</title>
+      <link>/publication/fitzgerald-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/fitzgerald-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of flexibility on the aerodynamic performance of a hovering wing</title>
+      <link>/publication/vanella-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/vanella-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Flapping Dynamics: Effects of Flexibility and Kinematics</title>
+      <link>/publication/vanella-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/vanella-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Flapping Dynamics: Reduced Order Modeling</title>
+      <link>/publication/fitzgerald-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/fitzgerald-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of flexibility on the performance of flapping airfoils</title>
+      <link>/publication/vanella-2007/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/vanella-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
