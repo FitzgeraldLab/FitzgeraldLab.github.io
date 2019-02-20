@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/project/robot-chess/</loc>
+      <lastmod>2019-02-19T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/fitzgerald-2019/</loc>
       <lastmod>2019-01-01T00:00:00-08:00</lastmod>
     </url>
@@ -259,7 +267,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2019-01-01T00:00:00-08:00</lastmod>
+      <lastmod>2019-02-19T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -313,6 +321,15 @@
     <url>
     
       <loc>/post/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2019-02-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -389,6 +406,33 @@
     
       <loc>/authors/v.-nguyen/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/chess/</loc>
+      <lastmod>2019-02-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/robotics/</loc>
+      <lastmod>2019-02-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/student-project/</loc>
+      <lastmod>2019-02-19T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
