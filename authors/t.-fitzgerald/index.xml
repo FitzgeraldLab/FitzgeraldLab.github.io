@@ -6,10 +6,19 @@
     <description>Recent content in T. Fitzgerald on FitzgeraldLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/authors/t.-fitzgerald/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>State Reconstruction of Highly Flexible Structures</title>
+      <link>/publication/fitzgerald-2019-a/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/fitzgerald-2019-a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A novel geometrically-exact formulation of a finite element solid based on a Biot stress and strain law</title>
