@@ -2,128 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on FitzgeraldLab</title>
-    <link>/home/</link>
+    <link>https://fitzgeraldlab.github.io/home/</link>
     <description>Recent content in Homes on FitzgeraldLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fitzgeraldlab.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/hero_carousel/</link>
+      <link>https://fitzgeraldlab.github.io/home/hero_carousel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/hero_carousel/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/home/hero/</link>
+      <link>https://fitzgeraldlab.github.io/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/hero/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>/home/about/</link>
+      <link>https://fitzgeraldlab.github.io/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>/home/skills/</link>
+      <link>https://fitzgeraldlab.github.io/home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/skills/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>/home/experience/</link>
+      <link>https://fitzgeraldlab.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/experience/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>/home/accomplishments/</link>
+      <link>https://fitzgeraldlab.github.io/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/accomplishments/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>/home/publications_featured/</link>
+      <link>https://fitzgeraldlab.github.io/home/publications_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/publications_featured/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/publications_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>/home/publications/</link>
+      <link>https://fitzgeraldlab.github.io/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Talks</title>
-      <link>/home/talks_featured/</link>
+      <link>https://fitzgeraldlab.github.io/home/talks_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/talks_featured/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/talks_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
+      <link>https://fitzgeraldlab.github.io/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>/home/posts/</link>
+      <link>https://fitzgeraldlab.github.io/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home/projects/</link>
+      <link>https://fitzgeraldlab.github.io/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <link>https://fitzgeraldlab.github.io/home/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/teaching/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/teaching/</guid>
       <description>Current semester:
  ENSC 481 Computational Dynamics (2019 Spring, 2018 Spring) MENG 461 System Dynamics and Controls (2019 Fall, 2019 Spring, 2018 Fall, 2017 Fall, 2016 Fall, 2015 Fall) ENSC 491 / 492 Senior Design Project I/II (AY 2019, AY 2018, AY 2017)  Other courses:
  ENSC 306 Dynamics (2018 Spring, 2017 Spring, 2016 Spring) MENG 434 Vibration Engineering (2015 Fall)  </description>
@@ -131,19 +131,19 @@
     
     <item>
       <title>Tags</title>
-      <link>/home/tags/</link>
+      <link>https://fitzgeraldlab.github.io/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/tags/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://fitzgeraldlab.github.io/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://fitzgeraldlab.github.io/home/contact/</guid>
       <description></description>
     </item>
     

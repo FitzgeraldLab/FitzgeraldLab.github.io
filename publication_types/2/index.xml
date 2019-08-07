@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on FitzgeraldLab</title>
-    <link>/publication_types/2/</link>
+    <link>https://fitzgeraldlab.github.io/publication_types/2/</link>
     <description>Recent content in 2 on FitzgeraldLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fitzgeraldlab.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Intrinsic Localized P-Mode in Forced Nonlinear Oscillator Array</title>
-      <link>/publication/perkins-2019/</link>
+      <link>https://fitzgeraldlab.github.io/publication/perkins-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
       
-      <guid>/publication/perkins-2019/</guid>
+      <guid>https://fitzgeraldlab.github.io/publication/perkins-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuation Method on Cumulant Neglect Equations</title>
-      <link>/publication/perkins-2018/</link>
+      <link>https://fitzgeraldlab.github.io/publication/perkins-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
       
-      <guid>/publication/perkins-2018/</guid>
+      <guid>https://fitzgeraldlab.github.io/publication/perkins-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion estimation of a highly deforming body from voxel clouds</title>
-      <link>/publication/hsu-2017/</link>
+      <link>https://fitzgeraldlab.github.io/publication/hsu-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
-      <guid>/publication/hsu-2017/</guid>
+      <guid>https://fitzgeraldlab.github.io/publication/hsu-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geometrically Exact Planar Beams with Initial Pre-stress and Large Curvature: Static Configurations, Natural Frequencies, and Mode Shapes</title>
-      <link>/publication/vlajic-2014/</link>
+      <link>https://fitzgeraldlab.github.io/publication/vlajic-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
       
-      <guid>/publication/vlajic-2014/</guid>
+      <guid>https://fitzgeraldlab.github.io/publication/vlajic-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Response localization in micro-scale oscillator arrays: influence of cubic coupling nonlinearities</title>
-      <link>/publication/balachandran-2014/</link>
+      <link>https://fitzgeraldlab.github.io/publication/balachandran-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
       
-      <guid>/publication/balachandran-2014/</guid>
+      <guid>https://fitzgeraldlab.github.io/publication/balachandran-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible Flapping Systems: Computational Investigations into Fluid-Structure Interactions</title>
-      <link>/publication/fitzgerald-2011-a/</link>
+      <link>https://fitzgeraldlab.github.io/publication/fitzgerald-2011-a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
       
-      <guid>/publication/fitzgerald-2011-a/</guid>
+      <guid>https://fitzgeraldlab.github.io/publication/fitzgerald-2011-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Influence of flexibility on the aerodynamic performance of a hovering wing</title>
-      <link>/publication/vanella-2009/</link>
+      <link>https://fitzgeraldlab.github.io/publication/vanella-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
       
-      <guid>/publication/vanella-2009/</guid>
+      <guid>https://fitzgeraldlab.github.io/publication/vanella-2009/</guid>
       <description></description>
     </item>
     

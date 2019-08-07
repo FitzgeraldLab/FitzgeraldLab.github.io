@@ -3,7 +3,7 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication_types/1/</loc>
       <lastmod>2019-07-29T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>/authors/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/</loc>
       <lastmod>2019-07-29T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -21,7 +21,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://fitzgeraldlab.github.io/</loc>
       <lastmod>2019-07-29T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -30,7 +30,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication_types/</loc>
       <lastmod>2019-07-29T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -39,7 +39,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/</loc>
       <lastmod>2019-07-29T00:00:00-07:00</lastmod>
     </url>
     
@@ -47,7 +47,7 @@
     
     <url>
     
-      <loc>/publication/fitzgerald-2019-a/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/fitzgerald-2019-a/</loc>
       <lastmod>2019-07-29T00:00:00-07:00</lastmod>
     </url>
     
@@ -55,7 +55,7 @@
     
     <url>
     
-      <loc>/authors/t.-fitzgerald/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/t.-fitzgerald/</loc>
       <lastmod>2019-07-29T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -64,7 +64,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>https://fitzgeraldlab.github.io/project/</loc>
       <lastmod>2019-02-19T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -73,7 +73,7 @@
     
     <url>
     
-      <loc>/project/robot-chess/</loc>
+      <loc>https://fitzgeraldlab.github.io/project/robot-chess/</loc>
       <lastmod>2019-02-19T00:00:00-08:00</lastmod>
     </url>
     
@@ -81,16 +81,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
-      <lastmod>2019-02-19T00:00:00-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/chess/</loc>
+      <loc>https://fitzgeraldlab.github.io/tags/</loc>
       <lastmod>2019-02-19T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -99,7 +90,7 @@
     
     <url>
     
-      <loc>/tags/robotics/</loc>
+      <loc>https://fitzgeraldlab.github.io/tags/chess/</loc>
       <lastmod>2019-02-19T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -108,7 +99,7 @@
     
     <url>
     
-      <loc>/tags/student-project/</loc>
+      <loc>https://fitzgeraldlab.github.io/tags/robotics/</loc>
       <lastmod>2019-02-19T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -117,7 +108,16 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
+      <loc>https://fitzgeraldlab.github.io/tags/student-project/</loc>
+      <lastmod>2019-02-19T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fitzgeraldlab.github.io/publication_types/2/</loc>
       <lastmod>2019-01-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -126,7 +126,7 @@
     
     <url>
     
-      <loc>/publication_types/3/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication_types/3/</loc>
       <lastmod>2019-01-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -135,7 +135,7 @@
     
     <url>
     
-      <loc>/publication/fitzgerald-2019/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/fitzgerald-2019/</loc>
       <lastmod>2019-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -143,16 +143,7 @@
     
     <url>
     
-      <loc>/authors/b.-balachandran/</loc>
-      <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/e.-perkins/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/b.-balachandran/</loc>
       <lastmod>2019-01-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -161,15 +152,7 @@
     
     <url>
     
-      <loc>/publication/perkins-2019/</loc>
-      <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/n.-vlajic/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/e.-perkins/</loc>
       <lastmod>2019-01-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -178,7 +161,24 @@
     
     <url>
     
-      <loc>/publication/stanley-2018/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/perkins-2019/</loc>
+      <lastmod>2019-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fitzgeraldlab.github.io/authors/n.-vlajic/</loc>
+      <lastmod>2019-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fitzgeraldlab.github.io/publication/stanley-2018/</loc>
       <lastmod>2018-04-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -186,16 +186,7 @@
     
     <url>
     
-      <loc>/authors/j.-hajjar/</loc>
-      <lastmod>2018-04-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/m.-stanley/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/j.-hajjar/</loc>
       <lastmod>2018-04-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -204,7 +195,16 @@
     
     <url>
     
-      <loc>/publication/perkins-2018/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/m.-stanley/</loc>
+      <lastmod>2018-04-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fitzgeraldlab.github.io/publication/perkins-2018/</loc>
       <lastmod>2018-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -212,7 +212,7 @@
     
     <url>
     
-      <loc>/publication/fitzgerald-2017/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/fitzgerald-2017/</loc>
       <lastmod>2017-11-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -220,7 +220,7 @@
     
     <url>
     
-      <loc>/publication/hsu-2017/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/hsu-2017/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -228,16 +228,7 @@
     
     <url>
     
-      <loc>/authors/s.-hsu/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/v.-nguyen/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/s.-hsu/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -246,7 +237,16 @@
     
     <url>
     
-      <loc>/publication/hsu-2015/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/v.-nguyen/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://fitzgeraldlab.github.io/publication/hsu-2015/</loc>
       <lastmod>2015-08-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -254,7 +254,7 @@
     
     <url>
     
-      <loc>/authors/t.-s.-hsu/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/t.-s.-hsu/</loc>
       <lastmod>2015-08-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -263,7 +263,7 @@
     
     <url>
     
-      <loc>/publication/vlajic-2014/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/vlajic-2014/</loc>
       <lastmod>2014-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -271,7 +271,7 @@
     
     <url>
     
-      <loc>/publication/balachandran-2014/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/balachandran-2014/</loc>
       <lastmod>2014-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -279,7 +279,7 @@
     
     <url>
     
-      <loc>/authors/e.-balaras/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/e.-balaras/</loc>
       <lastmod>2013-11-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -288,7 +288,7 @@
     
     <url>
     
-      <loc>/authors/m.-vanella/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/m.-vanella/</loc>
       <lastmod>2013-11-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -297,7 +297,7 @@
     
     <url>
     
-      <loc>/publication/fitzgerald-2013/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/fitzgerald-2013/</loc>
       <lastmod>2013-11-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -305,7 +305,7 @@
     
     <url>
     
-      <loc>/authors/c.-chabalko/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/c.-chabalko/</loc>
       <lastmod>2013-01-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -314,7 +314,7 @@
     
     <url>
     
-      <loc>/publication/chabalko-2013/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/chabalko-2013/</loc>
       <lastmod>2013-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -322,7 +322,7 @@
     
     <url>
     
-      <loc>/publication/valdez-2012/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/valdez-2012/</loc>
       <lastmod>2012-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -330,7 +330,7 @@
     
     <url>
     
-      <loc>/authors/m.-valdez/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/m.-valdez/</loc>
       <lastmod>2012-01-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -339,7 +339,7 @@
     
     <url>
     
-      <loc>/publication/fitzgerald-2011/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/fitzgerald-2011/</loc>
       <lastmod>2011-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -347,7 +347,7 @@
     
     <url>
     
-      <loc>/publication/fitzgerald-2011-a/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/fitzgerald-2011-a/</loc>
       <lastmod>2011-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -355,7 +355,7 @@
     
     <url>
     
-      <loc>/authors/s.-preidikman/</loc>
+      <loc>https://fitzgeraldlab.github.io/authors/s.-preidikman/</loc>
       <lastmod>2010-04-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -364,7 +364,7 @@
     
     <url>
     
-      <loc>/publication/fitzgerald-2010-c/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/fitzgerald-2010-c/</loc>
       <lastmod>2010-04-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -372,7 +372,7 @@
     
     <url>
     
-      <loc>/publication/fitzgerald-2010-a/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/fitzgerald-2010-a/</loc>
       <lastmod>2010-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -380,7 +380,7 @@
     
     <url>
     
-      <loc>/publication/vanella-2009/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/vanella-2009/</loc>
       <lastmod>2009-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -388,7 +388,7 @@
     
     <url>
     
-      <loc>/publication/vanella-2008/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/vanella-2008/</loc>
       <lastmod>2008-06-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -396,7 +396,7 @@
     
     <url>
     
-      <loc>/publication/fitzgerald-2008/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/fitzgerald-2008/</loc>
       <lastmod>2008-06-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -404,7 +404,7 @@
     
     <url>
     
-      <loc>/publication/vanella-2007/</loc>
+      <loc>https://fitzgeraldlab.github.io/publication/vanella-2007/</loc>
       <lastmod>2007-11-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -412,14 +412,14 @@
     
     <url>
     
-      <loc>/author/admin/</loc>
+      <loc>https://fitzgeraldlab.github.io/author/admin/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/author/</loc>
+      <loc>https://fitzgeraldlab.github.io/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -427,7 +427,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://fitzgeraldlab.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -435,14 +435,14 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://fitzgeraldlab.github.io/post/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://fitzgeraldlab.github.io/talk/</loc>
     </url>
     
   

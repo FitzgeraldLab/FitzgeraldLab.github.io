@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>V. Nguyen on FitzgeraldLab</title>
-    <link>/authors/v.-nguyen/</link>
+    <link>https://fitzgeraldlab.github.io/authors/v.-nguyen/</link>
     <description>Recent content in V. Nguyen on FitzgeraldLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="/authors/v.-nguyen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fitzgeraldlab.github.io/authors/v.-nguyen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Motion estimation of a highly deforming body from voxel clouds</title>
-      <link>/publication/hsu-2017/</link>
+      <link>https://fitzgeraldlab.github.io/publication/hsu-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
-      <guid>/publication/hsu-2017/</guid>
+      <guid>https://fitzgeraldlab.github.io/publication/hsu-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Large motion visualization and estimation for fluid-structure simulations</title>
-      <link>/publication/hsu-2015/</link>
+      <link>https://fitzgeraldlab.github.io/publication/hsu-2015/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 -0700</pubDate>
       
-      <guid>/publication/hsu-2015/</guid>
+      <guid>https://fitzgeraldlab.github.io/publication/hsu-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geometrically Exact Planar Beams with Initial Pre-stress and Large Curvature: Static Configurations, Natural Frequencies, and Mode Shapes</title>
-      <link>/publication/vlajic-2014/</link>
+      <link>https://fitzgeraldlab.github.io/publication/vlajic-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
       
-      <guid>/publication/vlajic-2014/</guid>
+      <guid>https://fitzgeraldlab.github.io/publication/vlajic-2014/</guid>
       <description></description>
     </item>
     

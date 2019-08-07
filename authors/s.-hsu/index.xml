@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. Hsu on FitzgeraldLab</title>
-    <link>/authors/s.-hsu/</link>
+    <link>https://fitzgeraldlab.github.io/authors/s.-hsu/</link>
     <description>Recent content in S. Hsu on FitzgeraldLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="/authors/s.-hsu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fitzgeraldlab.github.io/authors/s.-hsu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Motion estimation of a highly deforming body from voxel clouds</title>
-      <link>/publication/hsu-2017/</link>
+      <link>https://fitzgeraldlab.github.io/publication/hsu-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
-      <guid>/publication/hsu-2017/</guid>
+      <guid>https://fitzgeraldlab.github.io/publication/hsu-2017/</guid>
       <description></description>
     </item>
     

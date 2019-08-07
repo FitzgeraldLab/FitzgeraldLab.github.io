@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>chess on FitzgeraldLab</title>
-    <link>/tags/chess/</link>
+    <link>https://fitzgeraldlab.github.io/tags/chess/</link>
     <description>Recent content in chess on FitzgeraldLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Feb 2019 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="/tags/chess/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fitzgeraldlab.github.io/tags/chess/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Robot Chess</title>
-      <link>/project/robot-chess/</link>
+      <link>https://fitzgeraldlab.github.io/project/robot-chess/</link>
       <pubDate>Tue, 19 Feb 2019 00:00:00 -0800</pubDate>
       
-      <guid>/project/robot-chess/</guid>
+      <guid>https://fitzgeraldlab.github.io/project/robot-chess/</guid>
       <description>A student project to get a pair of robotic manipulators to play chess.</description>
     </item>
     

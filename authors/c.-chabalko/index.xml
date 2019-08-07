@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Chabalko on FitzgeraldLab</title>
-    <link>/authors/c.-chabalko/</link>
+    <link>https://fitzgeraldlab.github.io/authors/c.-chabalko/</link>
     <description>Recent content in C. Chabalko on FitzgeraldLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2013 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="/authors/c.-chabalko/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fitzgeraldlab.github.io/authors/c.-chabalko/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GPGPU implementation and benchmarking of the unsteady vortex lattice method</title>
-      <link>/publication/chabalko-2013/</link>
+      <link>https://fitzgeraldlab.github.io/publication/chabalko-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
       
-      <guid>/publication/chabalko-2013/</guid>
+      <guid>https://fitzgeraldlab.github.io/publication/chabalko-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flapping Aerodynamics in Ground Effect</title>
-      <link>/publication/valdez-2012/</link>
+      <link>https://fitzgeraldlab.github.io/publication/valdez-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
       
-      <guid>/publication/valdez-2012/</guid>
+      <guid>https://fitzgeraldlab.github.io/publication/valdez-2012/</guid>
       <description></description>
     </item>
     
