@@ -6,19 +6,9 @@
     <description>Recent content in Authors on FitzgeraldLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://fitzgeraldlab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>T. Fitzgerald</title>
-      <link>https://fitzgeraldlab.github.io/authors/t.-fitzgerald/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://fitzgeraldlab.github.io/authors/t.-fitzgerald/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>B. Balachandran</title>
@@ -30,20 +20,29 @@
     </item>
     
     <item>
+      <title>C. Chabalko</title>
+      <link>https://fitzgeraldlab.github.io/authors/c.-chabalko/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      
+      <guid>https://fitzgeraldlab.github.io/authors/c.-chabalko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Balaras</title>
+      <link>https://fitzgeraldlab.github.io/authors/e.-balaras/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0700</pubDate>
+      
+      <guid>https://fitzgeraldlab.github.io/authors/e.-balaras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>E. Perkins</title>
       <link>https://fitzgeraldlab.github.io/authors/e.-perkins/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
       
       <guid>https://fitzgeraldlab.github.io/authors/e.-perkins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N. Vlajic</title>
-      <link>https://fitzgeraldlab.github.io/authors/n.-vlajic/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      
-      <guid>https://fitzgeraldlab.github.io/authors/n.-vlajic/</guid>
       <description></description>
     </item>
     
@@ -66,38 +65,11 @@
     </item>
     
     <item>
-      <title>S. Hsu</title>
-      <link>https://fitzgeraldlab.github.io/authors/s.-hsu/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <title>M. Valdez</title>
+      <link>https://fitzgeraldlab.github.io/authors/m.-valdez/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
       
-      <guid>https://fitzgeraldlab.github.io/authors/s.-hsu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>V. Nguyen</title>
-      <link>https://fitzgeraldlab.github.io/authors/v.-nguyen/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      
-      <guid>https://fitzgeraldlab.github.io/authors/v.-nguyen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. -S. Hsu</title>
-      <link>https://fitzgeraldlab.github.io/authors/t.-s.-hsu/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 -0700</pubDate>
-      
-      <guid>https://fitzgeraldlab.github.io/authors/t.-s.-hsu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Balaras</title>
-      <link>https://fitzgeraldlab.github.io/authors/e.-balaras/</link>
-      <pubDate>Fri, 01 Nov 2013 00:00:00 -0700</pubDate>
-      
-      <guid>https://fitzgeraldlab.github.io/authors/e.-balaras/</guid>
+      <guid>https://fitzgeraldlab.github.io/authors/m.-valdez/</guid>
       <description></description>
     </item>
     
@@ -111,20 +83,20 @@
     </item>
     
     <item>
-      <title>C. Chabalko</title>
-      <link>https://fitzgeraldlab.github.io/authors/c.-chabalko/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      <title>N. Vlajic</title>
+      <link>https://fitzgeraldlab.github.io/authors/n.-vlajic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
       
-      <guid>https://fitzgeraldlab.github.io/authors/c.-chabalko/</guid>
+      <guid>https://fitzgeraldlab.github.io/authors/n.-vlajic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>M. Valdez</title>
-      <link>https://fitzgeraldlab.github.io/authors/m.-valdez/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      <title>S. Hsu</title>
+      <link>https://fitzgeraldlab.github.io/authors/s.-hsu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
-      <guid>https://fitzgeraldlab.github.io/authors/m.-valdez/</guid>
+      <guid>https://fitzgeraldlab.github.io/authors/s.-hsu/</guid>
       <description></description>
     </item>
     
@@ -134,6 +106,33 @@
       <pubDate>Thu, 01 Apr 2010 00:00:00 -0700</pubDate>
       
       <guid>https://fitzgeraldlab.github.io/authors/s.-preidikman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. -S. Hsu</title>
+      <link>https://fitzgeraldlab.github.io/authors/t.-s.-hsu/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://fitzgeraldlab.github.io/authors/t.-s.-hsu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Fitzgerald</title>
+      <link>https://fitzgeraldlab.github.io/authors/t.-fitzgerald/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://fitzgeraldlab.github.io/authors/t.-fitzgerald/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Nguyen</title>
+      <link>https://fitzgeraldlab.github.io/authors/v.-nguyen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://fitzgeraldlab.github.io/authors/v.-nguyen/</guid>
       <description></description>
     </item>
     
